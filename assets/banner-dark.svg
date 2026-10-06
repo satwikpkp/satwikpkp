@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="490" viewBox="0 0 1200 490" role="img" aria-labelledby="title desc">
+<title id="title">Satwik Shrey — profile.sh live terminal</title><desc id="desc">A dark terminal-inspired profile card with an animated particle portrait motif and Satwik's developer details.</desc>
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1223"/><stop offset="1" stop-color="#111a30"/></linearGradient>
+ <linearGradient id="edge" x2="1"><stop stop-color="#7c68ed"/><stop offset=".55" stop-color="#32d9e6"/><stop offset="1" stop-color="#58d68d"/></linearGradient>
+ <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#18304b" stroke-width=".7" opacity=".5"/></pattern>
+ <filter id="glow"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect x="1" y="1" width="1198" height="488" rx="22" fill="url(#bg)" stroke="#344766" stroke-width="2"/>
+<rect x="2" y="2" width="1196" height="52" rx="20" fill="#101a2e"/><path d="M2 53H1198" stroke="#2a3d5b"/>
+<circle cx="30" cy="27" r="6" fill="#ff5d66"/><circle cx="52" cy="27" r="6" fill="#ffc247"/><circle cx="74" cy="27" r="6" fill="#48d597"/>
+<text x="600" y="33" text-anchor="middle" fill="#c5d2ec" font-family="monospace" font-size="16">profile.sh --live</text>
+<rect x="26" y="78" width="420" height="382" rx="12" fill="#101b31" stroke="#344967"/><rect x="26" y="78" width="420" height="382" rx="12" fill="url(#grid)"/>
+<path d="M27 116H445" stroke="#344967"/><text x="48" y="103" fill="#45d9e8" font-family="monospace" font-weight="bold" font-size="13">VISUAL.MAP</text><text x="420" y="103" text-anchor="end" fill="#9db0d0" font-family="monospace" font-size="11">10K PTS / LIVE</text>
+<path d="M44 137v18m0-18h18M428 137v18m0-18h-18M44 431v-18m0 18h18m366 0h-18m18 0v-18" fill="none" stroke="#37d8e8" stroke-width="1.5"/>
+<!-- Orbiting data points create the reference's animated visual-map effect. -->
+<g transform="translate(235 283)" fill="#b5a4ff" filter="url(#glow)">
+ <g>
+  <circle cx="0" cy="-1" r="2.1"/><circle cx="-8" cy="-34" r="1.8"/><circle cx="10" cy="-32" r="1.7"/><circle cx="-17" cy="-27" r="1.5"/><circle cx="19" cy="-26" r="1.7"/>
+  <circle cx="-26" cy="-17" r="1.6"/><circle cx="26" cy="-16" r="1.6"/><circle cx="-32" cy="-5" r="1.8"/><circle cx="32" cy="-4" r="1.8"/>
+  <circle cx="-28" cy="10" r="1.6"/><circle cx="28" cy="10" r="1.6"/><circle cx="-20" cy="23" r="1.7"/><circle cx="20" cy="23" r="1.7"/>
+  <circle cx="-9" cy="32" r="1.5"/><circle cx="9" cy="32" r="1.5"/><circle cx="-1" cy="43" r="1.4"/>
+  <circle cx="-51" cy="-50" r="1.2" opacity=".7"/><circle cx="50" cy="-49" r="1.2" opacity=".7"/><circle cx="-62" cy="-22" r="1.3" opacity=".6"/><circle cx="64" cy="-17" r="1.2" opacity=".6"/>
+  <circle cx="-61" cy="23" r="1.2" opacity=".7"/><circle cx="58" cy="30" r="1.3" opacity=".6"/><circle cx="-42" cy="48" r="1.2" opacity=".6"/><circle cx="44" cy="50" r="1.2" opacity=".6"/>
+  <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="24s" repeatCount="indefinite"/>
+ </g>
+</g>
+<circle cx="235" cy="283" r="83" fill="none" stroke="#4b60a0" stroke-dasharray="2 9" opacity=".45"/>
+<text x="48" y="447" fill="#a8b8d4" font-family="monospace" font-size="10">SATWIK · BUILT WITH CURIOSITY</text>
+<rect x="468" y="78" width="706" height="382" rx="12" fill="#101b31" stroke="#344967"/>
+<path d="M469 116H1173" stroke="#344967"/><text x="491" y="103" fill="#45d9e8" font-family="monospace" font-weight="bold" font-size="13">SYSTEM.INFO</text>
+<circle cx="1014" cy="97" r="4" fill="#4bd99a"/><text x="1028" y="102" fill="#4bd99a" font-family="monospace" font-size="11">ONLINE</text><rect x="1083" y="85" width="72" height="24" rx="12" fill="#143b53"/><text x="1119" y="101" text-anchor="middle" fill="#43d8e5" font-family="monospace" font-size="11">@satwikpkp</text>
+<g font-family="monospace" font-size="14"><g fill="#9bb4db"><text x="492" y="151">Subject</text><text x="492" y="183">Role</text><text x="492" y="215">Origin</text><text x="492" y="247">Education</text><text x="492" y="279">Focus</text><text x="492" y="311">Core.Backend</text><text x="492" y="343">Core.Data</text><text x="492" y="375">Core.Tools</text><text x="492" y="407">Grid.LinkedIn</text><text x="492" y="439">Grid.Portfolio</text></g><g fill="#f0f4ff" text-anchor="end"><text x="1148" y="151">Satwik Shrey</text><text x="1148" y="183">Full Stack · Backend</text><text x="1148" y="215">NSUT · New Delhi</text><text x="1148" y="247">B.Tech Computer Science · 2024–28</text><text x="1148" y="279">Reliable, useful software</text><text x="1148" y="311">Java · Spring Boot · Python</text><text x="1148" y="343">PostgreSQL · MySQL · Redis</text><text x="1148" y="375">Docker · Kafka · Kubernetes</text><text x="1148" y="407">/in/satwik-shrey</text><text x="1148" y="439">satwik-shrey-portfolio.vercel.app</text></g></g>
+<path d="M491 426H1151" stroke="#344967" opacity=".6"/><text x="492" y="451" fill="#4bd99a" font-family="monospace" font-size="10">● ALL SYSTEMS NOMINAL</text><text x="1150" y="451" text-anchor="end" fill="#93a9cb" font-family="monospace" font-size="10">BUILD · LEARN · SHIP</text>
+</svg>
