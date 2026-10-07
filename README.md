@@ -18,13 +18,9 @@
 <br>
 
 <!-- SOCIALS — LinkedIn stays brand blue (glyph vanishes on custom fills). Others themed. -->
-<a href="https://www.linkedin.com/in/satwik-shrey/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;;
-<a href="https://leetcode.com/u/satwikpkp/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>&nbsp;&nbsp;;
+<a href="https://www.linkedin.com/in/satwik-shrey/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;
+<a href="https://leetcode.com/u/satwikpkp/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>&nbsp;&nbsp;
 <a href="https://satwik-shrey-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=emmi-lili&style=flat&color=aa9bef&label=profile+views" alt="profile views">
 
 </div>
 
@@ -94,6 +90,10 @@ Hey, I'm **Satwik**, a full stack developer who loves building clean, modern web
      shared public instances that go down and take the whole section with them. -->
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="assets/card-stats-dark.svg">
+
+
+  
+     
   <source media="(prefers-color-scheme: light)" srcset="assets/card-stats-light.svg">
   <img src="assets/card-stats-dark.svg" width="480" alt="GitHub statistics">
 </picture>
