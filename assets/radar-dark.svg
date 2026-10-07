@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="390" viewBox="0 0 420 390" role="img" aria-labelledby="title desc">
+<title id="title">Satwik's engineering focus areas</title><desc id="desc">An equally weighted, unscored focus map based on Satwik's profile.</desc>
+<rect width="420" height="390" rx="14" fill="#0D1628"/><text x="210" y="25" text-anchor="middle" fill="#DDE7F5" font-family="Arial,sans-serif" font-size="15" font-weight="700">Engineering &amp; community</text><text x="210" y="44" text-anchor="middle" fill="#8291A8" font-family="Arial,sans-serif" font-size="10">Focus areas · equal weighting · not proficiency scores</text><polygon points="200.0,189.0 225.0,201.5 225.0,226.5 200.0,239.0 175.0,226.5 175.0,201.5" fill="none" stroke="#25344C" stroke-width="1"/>
+<polygon points="200.0,164.0 250.0,189.0 250.0,239.0 200.0,264.0 150.0,239.0 150.0,189.0" fill="none" stroke="#25344C" stroke-width="1"/>
+<polygon points="200.0,139.0 275.0,176.5 275.0,251.5 200.0,289.0 125.0,251.5 125.0,176.5" fill="none" stroke="#25344C" stroke-width="1"/>
+<polygon points="200.0,114.0 300.0,164.0 300.0,264.0 200.0,314.0 100.0,264.0 100.0,164.0" fill="none" stroke="#25344C" stroke-width="1"/>
+<line x1="200" y1="214" x2="200" y2="104" stroke="#25344C" stroke-width="1"/>
+<line x1="200" y1="214" x2="295" y2="159" stroke="#25344C" stroke-width="1"/>
+<line x1="200" y1="214" x2="295" y2="269" stroke="#25344C" stroke-width="1"/>
+<line x1="200" y1="214" x2="200" y2="324" stroke="#25344C" stroke-width="1"/>
+<line x1="200" y1="214" x2="105" y2="269" stroke="#25344C" stroke-width="1"/>
+<line x1="200" y1="214" x2="105" y2="159" stroke="#25344C" stroke-width="1"/>
+<polygon points="200.0,117.2 283.6,165.6 283.6,262.4 200.0,310.8 116.4,262.4 116.4,165.6" fill="#AA9BEF" fill-opacity=".22" stroke="#AA9BEF" stroke-width="2"/>
+<text x="200" y="91" text-anchor="middle" fill="#DDE7F5" font-family="Arial,sans-serif" font-size="11">Backend systems</text>
+<text x="310" y="148" text-anchor="start" fill="#DDE7F5" font-family="Arial,sans-serif" font-size="11">Java &amp; Spring</text>
+<text x="310" y="281" text-anchor="start" fill="#DDE7F5" font-family="Arial,sans-serif" font-size="11">Data systems</text>
+<text x="200" y="349" text-anchor="middle" fill="#DDE7F5" font-family="Arial,sans-serif" font-size="11">Full stack</text>
+<text x="110" y="281" text-anchor="end" fill="#DDE7F5" font-family="Arial,sans-serif" font-size="11">AI / ML</text>
+<text x="110" y="148" text-anchor="end" fill="#DDE7F5" font-family="Arial,sans-serif" font-size="11">Community</text>
+</svg>
