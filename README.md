@@ -36,11 +36,11 @@
 Hey, I'm **Satwik**, a full stack developer who loves building clean, modern websites and apps where design, functionality, and even the smallest details matter, with a focus on making products that are both practical and visually satisfying
 
 - 🎓 Pursuing a **B.Tech in Computer Science and Engineering at NSUT DELHI**
-- ⚙️ Working with **Java, Spring Boot, PostgreSQL, and microservices** & Building across the stack with **React, Next.js, Node.js, and Python**
 - 🧭 Leading operations and community initiatives with **GDG NSUT and eCell NSUT**
 - 🤖 I spend most of my time in the **terminal**,**browser** or **scribbling on a whiteboard.**
 - 🌐 I lean **backend**, not because I don't like **frontend**, but because I enjoy making **polished things actually hold up.**
 - 💬 I don't ship **junk** , **Maintainability isn't optional** **And I build best when I'm curious**.
+- ⚙️ Working with **Java, Spring Boot, PostgreSQL, and microservices** & Building across the stack with **React, Next.js, Node.js, and Python**
 <br>
 
 <div align="center">
